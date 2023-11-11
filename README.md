@@ -66,6 +66,7 @@ hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=msaggu204&theme=radical&show_icons=true)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaggu204&layout=compact)
+
 ![snake animation](https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center">

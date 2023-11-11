@@ -38,8 +38,6 @@ currently_learning: ["Competitive Coding, Blender, VHDL"]
 hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ```
 
-![Snake animation](https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake.svg)
-
 ![snake animation](https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake2.svg)
 
 <!--

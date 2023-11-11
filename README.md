@@ -37,6 +37,10 @@ currently_learning: ["Competitive Coding, Blender, VHDL"]
 2024 Goals: ["Create 20+ Projects"]
 hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ```
+
+![Snake animation]
+(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **msaggu204/msaggu204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!&fontColor=d6ace6&animation=fadeIn&theme=radical"/>
 </p>
 
+<img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif?cid=ecf05e47fo1t8onmpref088fvqkk63nff0ji8yr0xrmu1sg1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <!--
 **msaggu204/msaggu204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

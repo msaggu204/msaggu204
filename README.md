@@ -1,13 +1,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello!👋🏼%20&height=300&fontSize=100&animation=fadeIn"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47lwfr5zrtps8b2wnjlapmcujyw7nt72xmovmsbvri&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 
 # **🙋🏻‍♂️ Let's Connect!**
+<p align="center">
 <a href="https://www.linkedin.com/in/manjotsaggu">
   <img height="50" src="https://github.com/msaggu204/msaggu204/assets/91143015/3441ad85-99b3-4114-8bc8-55b7703635a0">
 </a>
+</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47lwfr5zrtps8b2wnjlapmcujyw7nt72xmovmsbvri&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47rombpbvayvqn8vl11l5859ngnvel70aknk68ncht&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 # **👨🏻‍💻 About Me...**

@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!&fontColor=d6ace6&animation=fadeIn&theme=radical"/>
 </p>
 <p align="center">
-  <img src="[https://media.giphy.com/media/a5viI92PAF89q/giphy.gif?cid=ecf05e47fo1t8onmpref088fvqkk63nff0ji8yr0xrmu1sg1&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=ecf05e47uccdpgp5k0v30lewfg8yw99936yui5fwenf9pyno&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+  <img src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=ecf05e47uccdpgp5k0v30lewfg8yw99936yui5fwenf9pyno&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 👨🏻‍💻 About Me...

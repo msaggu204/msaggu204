@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!&fontColor=d6ace6&animation=fadeIn&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!&fontColor=d6ace6&animation=fadeIn&theme=tokyonight"/>
 </p>
 
 <!--

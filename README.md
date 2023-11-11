@@ -38,7 +38,8 @@ currently_learning: ["Competitive Coding, Blender, VHDL"]
 hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ```
 
-![Snake animation](https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **msaggu204/msaggu204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

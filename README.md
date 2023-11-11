@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello!👋🏼%20&height=300&fontSize=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello!👋🏼%20&height=300&fontSize=100&animation=fadeIn"/>
 </p>
+
+# **🙋🏻‍♂️ Let's Connect!**
+<a href="https://www.linkedin.com/in/manjotsaggu">
+  <img height="50" src="https://github.com/msaggu204/msaggu204/assets/91143015/3441ad85-99b3-4114-8bc8-55b7703635a0">
+</a>
 <p align="center">
-  <img src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=ecf05e47uccdpgp5k0v30lewfg8yw99936yui5fwenf9pyno&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47lwfr5zrtps8b2wnjlapmcujyw7nt72xmovmsbvri&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 # **👨🏻‍💻 About Me...**
@@ -35,8 +40,34 @@ currently_learning: ["Competitive Coding, Blender, VHDL"]
 2024 Goals: ["Create 20+ Projects"]
 hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=msaggu204&theme=dark&show_icons=true)
+# **🚀 Tools I Have Used and Learned**
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="XCode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" alt="SQLite" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
+</p>
+
+# **📈 My GitHub History**
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=msaggu204&theme=radical&show_icons=true)
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaggu204&layout=compact)
 ![snake animation](https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake2.svg)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif?cid=ecf05e47cufve0gy8zboowcpf5rvwlorq47wsom6b7qzgf2l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=ecf05e47uccdpgp5k0v30lewfg8yw99936yui5fwenf9pyno&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 
 <!--
 **msaggu204/msaggu204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

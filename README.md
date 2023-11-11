@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)

@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!&fontColor=d6ace6&animation=fadeIn"/>
 </p>
-
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 <!--
 **msaggu204/msaggu204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

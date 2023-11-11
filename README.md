@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif?cid=ecf05e47uccdpgp5k0v30lewfg8yw99936yui5fwenf9pyno&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
-👨🏻‍💻 About Me...
+# **👨🏻‍💻 About Me...**
 ```yaml
 name: Manjot Saggu
 located_in: Edmonton, AB

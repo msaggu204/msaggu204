@@ -33,7 +33,7 @@ technical_background:
   ]
   
 currently_learning: ["Competitive Coding, Blender, VHDL"]
-2022 Goals: ["Create 20+ Projects"]
+2024 Goals: ["Create 20+ Projects"]
 hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ```
 <!--

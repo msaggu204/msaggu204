@@ -69,6 +69,7 @@ hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/msaggu204)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/msaggu204?theme=dark)
+![](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)
 
 <p align="center">
   <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif?cid=ecf05e47cufve0gy8zboowcpf5rvwlorq47wsom6b7qzgf2l&ep=v1_gifs_search&rid=giphy.gif&ct=g">

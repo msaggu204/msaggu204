@@ -65,19 +65,12 @@ hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=msaggu204&theme=radical&show_icons=true)
 -->
-<p align="center">
-  <a href="https://leetcard.jacoblin.cool/msaggu204?theme=dark">
-    <img src="https://leetcard.jacoblin.cool/msaggu204?theme=dark" alt="Leetcode Stats">
-  </a>
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaggu204&layout=compact)
 <p align="center">
   <a href="https://github.com/msaggu204">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaggu204&layout=compact" alt="Top Languages">
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://leetcard.jacoblin.cool/msaggu204?theme=dark">

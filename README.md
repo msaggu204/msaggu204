@@ -25,6 +25,7 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelors of Computer Engineering",
   ]
+
 company: University of Alberta
 
 fields_of_interests:

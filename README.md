@@ -81,7 +81,7 @@ hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 
 <p align="center">
   <a href="https://leetcode.com/msaggu204/">
-    <img src="https://leetcard.jacoblin.cool/msaggu204?ext=activity" alt="Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/msaggu204?theme=dark?ext=activity" alt="Leetcode Stats">
   </a>
 </p>
 

@@ -68,7 +68,7 @@ hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaggu204&layout=compact)
 
 <p align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/msaggu204?theme=dark)
+  <![Leetcode Stats](https://leetcard.jacoblin.cool/msaggu204?theme=dark)>
 </p>
 
 <p align="center">

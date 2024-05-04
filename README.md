@@ -69,6 +69,8 @@ hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 
 ![snake gif](https://github.com/msaggu204/msaggu204/blob/output/github-contribution-grid-snake.gif)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/msaggu204)
+
 <p align="center">
   <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif?cid=ecf05e47cufve0gy8zboowcpf5rvwlorq47wsom6b7qzgf2l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>

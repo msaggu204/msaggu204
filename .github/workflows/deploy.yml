@@ -26,17 +26,14 @@ jobs:
       - name: Install dependencies
         run: npm install
         working-directory: ./msaggu204.github.io
-      
+
       - name: Build
         run: npm run build
         working-directory: ./msaggu204.github.io
-      
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: './msaggu204.github.io/dist'
 
       - name: Deploy
-        id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: './msaggu204.github.io/dist'

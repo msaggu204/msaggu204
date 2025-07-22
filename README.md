@@ -19,31 +19,34 @@
 ```yaml
 name: Manjot Saggu
 located_in: Edmonton, AB
-current_job: Student
+current_job: Recent Computer Engineering Graduate
 education:
   [
+    "BSc in Computer Engineering, University of Alberta",
     "Self-Taught Developer and Designer",
-    "Bachelors of Computer Engineering",
   ]
 
-company: University of Alberta
+company: Meta (via HCL Technologies), formerly University of Alberta
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
+    "Infrastructure Engineering",
+    "Automation & DevOps",
+    "Embedded Systems",
+    "Data & System Validation",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Web Development",
   ]
+
 technical_background:
   [
-    "Natural Gas Engineering Co-op Student"
+    "Software Engineer Intern @ Meta (Silicon Infrastructure)",
+    "Natural Gas Engineering Co-op @ ATCO",
+    "Capstone: Embedded ML for Coffee Roasting Automation",
   ]
-  
-currently_learning: ["Competitive Coding, Blender, VHDL"]
-2024 Goals: ["Create 20+ Projects"]
+
+currently_learning: ["Systems Programming", "Cloud Infrastructure", "Security Engineering"]
+2024 Goals: ["Build a portfolio of hardware/software integration projects", "Sharpen low-level coding & debugging skills"]
 hobbies: ["Weightlifting", "Guitar", "MMA", "Golf"]
 ```
 # **🚀 Tools I Have Used and Learned**
